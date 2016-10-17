@@ -224,6 +224,8 @@ export LOG_LEVEL='debug'
 
 Include the contents of this file by appending the following line to `~/.profile`:
 
+HAHAHAH
+
 ```bash
 source ~/.bodyappsrc
 ```
